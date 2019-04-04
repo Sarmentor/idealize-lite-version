@@ -17,6 +17,7 @@ library(scico)
 library(ggrepel)
 library(tidyverse)
 library(data.table)
+library(gtrendsR)
 
 
 load("../data/Cities&Countries.RData")
